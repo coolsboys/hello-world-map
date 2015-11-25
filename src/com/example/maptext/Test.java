@@ -23,7 +23,7 @@ public class Test {
 			}
 		}
 		
-		String ss = "0011";
+		String ss = "001100";
 		System.out.println(ss.matches("[0-9]+"));;
 		
 		System.out.println(getRandom());
